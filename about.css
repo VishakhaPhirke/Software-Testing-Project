@@ -1,0 +1,13 @@
+header
+{
+background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('images.jfif');
+height:60vh;
+background-size:cover;
+background-position;
+}
+.container
+{
+font-size:30px;
+margin-top:10px;
+text-align:center;
+}
